@@ -1,5 +1,6 @@
 # My Git Project
 
+creating conflict
 
 Added conflict
 
